@@ -1,0 +1,19 @@
+[
+  {
+    "path": "TidyTuesday/2021-06-05-hello-world/",
+    "title": "Hello world!",
+    "description": "Trying out a new collection for Tidy Tuesday contributions",
+    "author": [
+      {
+        "name": "Sara Stoudt",
+        "url": {}
+      }
+    ],
+    "date": "2021-06-05",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2021-06-05T13:25:22-04:00",
+    "input_file": {}
+  }
+]
