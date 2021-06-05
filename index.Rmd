@@ -1,5 +1,5 @@
 ---
-title: "Sara A. Stoudt"
+title: "Sara A. Stoudt, PhD"
 image: "StoudtHeadshot.jpg"
 color1: "#5DADE2"
 color2: "#F5B041"
