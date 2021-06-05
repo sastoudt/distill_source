@@ -12,8 +12,11 @@ output:
 
 
 ```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = T)
+knitr::opts_chunk$set(echo = T, eval = F)
 ```
+
+
+**NOTE**: When updating my website in June 2021, I no longer could easily find this data (the 538 GitHub data page has changed?). I am using `eval = F` to preserve the post, but we will not be able to see output. I will try to find a copy of the data in my backup drive and fix at a later time.
 
 Next up on my to-learn list is dplyr. I use `group_by` and `summarize` fairly regularly, but there is other functionality that I want to learn to take advantage of.
 
