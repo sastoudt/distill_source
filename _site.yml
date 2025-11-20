@@ -7,8 +7,6 @@ navbar:
   right:
     - text: "Home"
       href: index.html
-    - text: "Blog"
-      href: blog.html
     - text: "Research"
       href: research.html
     - text: "Teaching"
@@ -17,6 +15,8 @@ navbar:
       href: writing.html
     - text: "Coding Projects"
       href: coding_projects.html
+    - text: "Blog"
+      href: blog.html
     - text: "Tidy Tuesday"
       href: TidyTuesday.html
 output: distill::distill_article
